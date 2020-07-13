@@ -1,5 +1,13 @@
-### Hi there 👋
+<img width="1056" alt="github-cover" src="https://user-images.githubusercontent.com/30872426/87295712-39a71580-c523-11ea-964a-29af9ffd95a6.png">
 
+
+### Hi there, I'm Divyajyoti! 👋
+
+- dev.to: I write technical blogs on this platform. You can go ahead and visit https://dev.to/divyajyotiuk
+- I'm currently 🌱 learning and 🔭 working on the Javascript Ecosystem.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a Computer Engineering background but the whole credit goes to Google and Stack Overflow for teaching me.
+- Want to get in touch with me? Drop me a mail at divyajyoti.u@gmail.com
 <!--
 **divyajyotiuk/divyajyotiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
