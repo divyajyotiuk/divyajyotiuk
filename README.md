@@ -7,7 +7,7 @@
 - I'm currently 🌱 learning and 🔭 working on the Javascript Ecosystem.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a Computer Engineering degree and my favourite mentors are Google and Stack Overflow.
-- Want to get in touch with me? Drop me a mail at divyajyoti.u@gmail.com
+- Want to get in touch with me? Catch me on Twitter [@divyajyotiuk](https://twitter.com/divyajyotiuk) OR Drop me a mail at divyajyoti.u@gmail.com
 <!--
 **divyajyotiuk/divyajyotiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
