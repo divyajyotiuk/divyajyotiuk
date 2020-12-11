@@ -1,4 +1,4 @@
-<img width="1056" alt="github-cover" src="https://user-images.githubusercontent.com/30872426/87295712-39a71580-c523-11ea-964a-29af9ffd95a6.png">
+<img width="1056" alt="github-cover" src="https://dev-to-uploads.s3.amazonaws.com/i/j1jx5z7byq48c924n36w.png">
 
 
 ### Hi there, I'm Divyajyoti! 👋
