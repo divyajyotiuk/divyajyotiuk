@@ -3,10 +3,10 @@
 
 ### Hi there, I'm Divyajyoti! 👋
 
-- dev.to: I write technical blogs on this platform. You can go ahead and visit https://dev.to/divyajyotiuk
+- I write technical blogs on [dev.to](https://dev.to/divyajyotiuk) and [hashnode](https://divyajyotiuk.hashnode.dev/). You can go ahead and visit.
 - I'm currently 🌱 learning and 🔭 working on the Javascript Ecosystem.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a Computer Engineering background but the whole credit goes to Google and Stack Overflow for teaching me.
+- ⚡ Fun fact: I have a Computer Engineering degree and my favourite mentors are Google and Stack Overflow.
 - Want to get in touch with me? Drop me a mail at divyajyoti.u@gmail.com
 <!--
 **divyajyotiuk/divyajyotiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
