@@ -13,6 +13,11 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a Computer Engineering degree and my favourite mentors are Google and Stack Overflow.
 - Want to get in touch with me? Catch me on Twitter [@divyajyotiuk](https://twitter.com/divyajyotiuk) OR Drop me a mail at divyajyoti.u@gmail.com
+
+### Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="Jquery Logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML Logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS Logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="40" height="40" />
+
 <!--
 **divyajyotiuk/divyajyotiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
