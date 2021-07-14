@@ -3,6 +3,11 @@
 
 ### Hi there, I'm Divyajyoti! 👋
 
+![GitHub followers](https://img.shields.io/github/followers/divyajyotiuk?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/divyajyotiuk?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/divyajyotiuk?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdivyajyotiuk)
+
 - I write technical blogs on [dev.to](https://dev.to/divyajyotiuk) and [hashnode](https://divyajyotiuk.hashnode.dev/). You can go ahead and visit.
 - I'm currently 🌱 learning and 🔭 working on the Javascript Ecosystem.
 - 😄 Pronouns: she/her
