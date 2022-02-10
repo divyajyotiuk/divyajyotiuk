@@ -18,7 +18,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="Jquery Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Nodejs Logo" width="50" height="50" />
 
-[![Divyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyajyotiuk)](https://github.com/anuraghazra/github-readme-stats)
+[![Divyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyajyotiuk&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **divyajyotiuk/divyajyotiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
